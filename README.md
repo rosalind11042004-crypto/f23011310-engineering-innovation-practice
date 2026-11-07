@@ -4,7 +4,7 @@
 
 **企业级大模型统一接入与管理平台（本地 Docker Mock 演示）**
 
-本仓库用于课程项目成果展示，提供项目报告以及后续录制的本地模拟环境演示视频。
+本仓库用于课程项目成果展示，提供项目报告以及本地模拟环境演示视频。
 
 ### 项目内容
 
@@ -16,8 +16,9 @@
 
 ### 材料
 
-- **项目报告**：`企业级大模型统一接入与管理平台.docx`（上传后可在仓库中下载）
-- **演示视频**：待补充至 GitHub Releases
+- **项目报告**：[企业级大模型统一接入与管理平台.docx](./企业级大模型统一接入与管理平台.docx)
+- **演示视频**：[查看视频发布页](https://github.com/rosalind11042004-crypto/f23011310-engineering-innovation-practice/releases/tag/demo-2026-11-07) · [下载 MP4](https://github.com/rosalind11042004-crypto/f23011310-engineering-innovation-practice/releases/download/demo-2026-11-07/bea-ai-gateway-demo-public.mp4)（约 7 分 23 秒，34 MB）
+  - 保留主要操作讲解，涉及内部信息的少量语句已局部静音，部分画面已遮挡。
 
 ### 重要说明
 
